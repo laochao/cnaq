@@ -1,7 +1,6 @@
 # Dependencies
 markdown:         rdiscount
 highlighter:      pygments
-baseurl: /cnaq
 
 # Permalinks
 permalink:        pretty
