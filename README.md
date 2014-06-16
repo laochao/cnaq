@@ -1,6 +1,6 @@
-cnaq
+中文前端技术博客
 ====
 
-##中文代码和排版
+基于Jekyll的中文前端技术博客。
 
-###中文HTML/CSS代码规范和排版技巧
+http://www.cnaq.net
